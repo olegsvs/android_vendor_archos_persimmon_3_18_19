@@ -149,16 +149,16 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libcam3_hwnode.so:system/lib/libcam3_hwnode.so \
     vendor/archos/persimmon/proprietary/lib/libMtkOmxApeDec.so:system/lib/libMtkOmxApeDec.so \
     vendor/archos/persimmon/proprietary/lib/libem_lte_jni.so:system/lib/libem_lte_jni.so \
-    vendor/archos/persimmon/proprietary/lib/hw/memtrack.mt6737m.so:system/lib/hw/memtrack.mt6737m.so \
-    vendor/archos/persimmon/proprietary/lib/hw/camera.mt6737m.so:system/lib/hw/camera.mt6737m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/memtrack.mt6735m.so:system/lib/hw/memtrack.mt6735m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/camera.mt6735m.so:system/lib/hw/camera.mt6735m.so \
     vendor/archos/persimmon/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
     vendor/archos/persimmon/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
-    vendor/archos/persimmon/proprietary/lib/hw/hwcomposer.mt6737m.so:system/lib/hw/hwcomposer.mt6737m.so \
-    vendor/archos/persimmon/proprietary/lib/hw/gps.mt6737m.so:system/lib/hw/gps.mt6737m.so \
-    vendor/archos/persimmon/proprietary/lib/hw/audio.primary.mt6737m.so:system/lib/hw/audio.primary.mt6737m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/hwcomposer.mt6735m.so:system/lib/hw/hwcomposer.mt6735m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/gps.mt6735m.so:system/lib/hw/gps.mt6735m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/audio.primary.mt6735m.so:system/lib/hw/audio.primary.mt6735m.so \
     vendor/archos/persimmon/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
-    vendor/archos/persimmon/proprietary/lib/hw/gralloc.mt6737m.so:system/lib/hw/gralloc.mt6737m.so \
-    vendor/archos/persimmon/proprietary/lib/hw/sensors.mt6737m.so:system/lib/hw/sensors.mt6737m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/gralloc.mt6735m.so:system/lib/hw/gralloc.mt6735m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/sensors.mt6735m.so:system/lib/hw/sensors.mt6735m.so \
     vendor/archos/persimmon/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
     vendor/archos/persimmon/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
     vendor/archos/persimmon/proprietary/lib/libcam_hwutils.so:system/lib/libcam_hwutils.so \
@@ -276,8 +276,8 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libfmcust.so:system/lib/libfmcust.so \
     vendor/archos/persimmon/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
     vendor/archos/persimmon/proprietary/lib/hw/audio_policy.stub.so:system/lib/hw/audio_policy.stub.so \
-    vendor/archos/persimmon/proprietary/lib/hw/lights.mt6737m.so:system/lib/hw/lights.mt6737m.so \
-    vendor/archos/persimmon/proprietary/lib/hw/radio.fm.mt6737m.so:system/lib/hw/radio.fm.mt6737m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/lights.mt6735m.so:system/lib/hw/lights.mt6735m.so \
+    vendor/archos/persimmon/proprietary/lib/hw/radio.fm.mt6735m.so:system/lib/hw/radio.fm.mt6735m.so \
     vendor/archos/persimmon/proprietary/lib/hw/remoteir.default.so:system/lib/hw/remoteir.default.so \
     vendor/archos/persimmon/proprietary/lib/liba3m.so:system/lib/liba3m.so \
     vendor/archos/persimmon/proprietary/lib/libacdk.so:system/lib/libacdk.so \
